@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background-color: #111111;
+  font-family: 'Playfair Display SC', serif;
+}
+
+header {
+  color: #b80000;
+  text-decoration: underline #778082;
+  font-size: 1.5em;
+  margin-left: .5em;
+}
+
+#main {
+  margin-top: 1em;
+  display: flex;
+}
+
+#home {
+  margin-left: .5em;
+  height: 25em;
+  width: 32.65em;
+  border: 1px solid #778082;
+}
+
+#welcome {
+  color: #eee;
+  margin-left: 1em;
+  font-size: 1.25em;
+}
+
+#line {
+  width: 75%;
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+#eps {
+  color: #eee;
+  text-align: center;
+  font-size: 1.65em;
+}
